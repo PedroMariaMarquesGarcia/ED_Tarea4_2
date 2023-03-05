@@ -16,7 +16,8 @@ public class PedroGIT {
     public static void main(String[] args) {
         // Pedro Marques Garcia
         System.out.println("Rama Secundaria");
-        long valor = 2;
+        long valor = 100;
+        String texto = "Finalizar"
     }
     
 }
