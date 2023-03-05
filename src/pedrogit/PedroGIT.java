@@ -16,7 +16,7 @@ public class PedroGIT {
     public static void main(String[] args) {
         // Pedro Marques Garcia
         System.out.println("Programa Principal");
-        int valor = 1;
+        int valor = 2;
     }
     
 }
